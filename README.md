@@ -10,3 +10,12 @@ Dyscribb is a software application that helps in the early detection of dyslexia
     * Taking the handwritten word of the student, It is scanned.
     * If the written text doesn't match the announced word, the code displays the detected as well as the referenced words.
 Through these techniques, the writing disability among the students can be combatted and the children can be provided with the right resources at the right time.
+
+# Libraries Used:
+* OpenCV
+* Matplotlib
+* numpy
+* pyttsx3
+* easyocr
+* nltk
+* Spellchecker
